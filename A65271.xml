@@ -1,0 +1,517 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle by way of testimony to the friends of Manchester and thereabouts given forth shortly after the death of my dear daughter, Mary Moss, wife of Isaac Moss of Manchester, who departed this life the XXIX of the 11th month, 1692 : with a testimony concerning my dear wife Mary Watson, who since departed this life the 2d of the 9th month, 1694 / by Samuel Watson ; together with a few words written by Elizabeth Moss concerning her dear mother.</title>
+            <author>Watson, Samuel, ca. 1618-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65271</idno>
+            <idno type="STC">Wing W1096</idno>
+            <idno type="STC">ESTC R13490</idno>
+            <idno type="EEBO-CITATION">13322734</idno>
+            <idno type="OCLC">ocm 13322734</idno>
+            <idno type="VID">99041</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99041)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 442:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle by way of testimony to the friends of Manchester and thereabouts given forth shortly after the death of my dear daughter, Mary Moss, wife of Isaac Moss of Manchester, who departed this life the XXIX of the 11th month, 1692 : with a testimony concerning my dear wife Mary Watson, who since departed this life the 2d of the 9th month, 1694 / by Samuel Watson ; together with a few words written by Elizabeth Moss concerning her dear mother.</title>
+                  <author>Watson, Samuel, ca. 1618-1708.</author>
+                  <author>Moss, Elizabeth. Few words by way of remembrance of my dear mother M. Watson.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Northcott ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Watson, Mary, d. 1694.</term>
+               <term>Moss, Mary, d. 1692.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99041:1" rendition="simple:additions"/>
+            <pb facs="tcp:99041:1" rendition="simple:additions"/>
+            <p>AN EPISTLE By way of TESTIMONY, To the <hi>Friends of
+Mancheſter</hi> And thereabouts, Given forth ſhortly after the Death of my
+dear Daughter, MARY MOSS, WIFE of <hi>ISAAC MOSS</hi> of <hi>Mancheſter,</hi>
+Who departed this Life The XXIX of the 11th Month, 1692.</p>
+            <p>With a Teſtimony concerning my dear Wife <hi>Mary Watſon,</hi>
+who ſince departed this Life the 2d of the 9th Month, 1694.</p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL WATSON</hi>
+            </p>
+            <p>Together with a few words written by <hi>Elizabeth Moſs</hi>
+concern<g ref="char:EOLhyphen"/>ing her dear Mother.</p>
+            <q>
+               <p>Pretious in the ſight of the Lord is the Death of his
+Saints,</p>
+               <bibl>
+                  <hi>Pſalm 1 6.15.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>And I heard a voice from Heaven, ſaying unto me write,
+bleſſed are the dead which dye in the Lord, from hence-forth: Yea, ſaith
+the Spirit, that they may reſt from</hi> their labours; and their Works do
+follow them,</p>
+               <bibl>
+                  <hi>Revelations, 14.13.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Northcott</hi> in
+<hi>George-Yard</hi> in <hi>Lombard ſtreet,</hi> 1695</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:99041:2"/>
+            <pb n="1" facs="tcp:99041:2"/>
+            <head>An Epiſtle by way of Teſtimony to the Friends of
+<hi>Mancheſter</hi> and thereabouts: Given forth ſhortly after the Death of
+my Dear Daughter <hi>Mary Moſs.</hi>
+            </head>
+            <p>DEar Friends of <hi>Mancheſter</hi> and thereabouts, and all who
+are concerned for the proſperity of the Truth as it is in Jeſus Chriſt
+our Lord and Sa<g ref="char:EOLhyphen"/>viour; it lives upon me to write this Epiſtle of Memorial
+concerning our Dear Daughter <hi>Mary,</hi> of whoſe departure out of this
+Life you have a great Loſs; as certain<g ref="char:EOLhyphen"/>ly her dear Parents and Relations, her
+Husband and tender ſmall Babes have, which ſhe left behind her; a loſs I
+ſay unexpreſſible, whom ſhe was in her life time a comfort and help to:
+But the infinite wiſe God in whoſe Hand we all are, hath ordered theſe
+things according to his divine Will and Pleaſure, ſometimes for the
+ſpeedy deliverance of his tribulated Children, in the Work of their
+Redemption, from all viſibles, that the Joy ſet before them of that which
+is Eternal, they may, without Interruption, poſſeſs; ſo that though
+ſhe be removed or departed, who was a com<g ref="char:EOLhyphen"/>fort to us in her Life-time, and
+the loſs of whom is great, yet the Gain to her is incomparable, and our Peace
+and great ſatisfaction is in full aſſurance, That ſhe is gathered with
+the wiſe Virgins gone before her, into the Bridegroom's Chamber of Eternal
+Joy and Felicity. And pretious in the ſight of the Lord is the death of all
+his Saints, and her Memorial ſhall be had in everlaſting Remembrance.</p>
+            <pb n="2" facs="tcp:99041:3"/>
+            <p>I cannot ſufficiently expreſs this tender Branches
+amia<g ref="char:EOLhyphen"/>bleneſs, her inward Beauty and glorious Garments which ſhe had put on,
+as one of the King of <hi>Zion</hi>'s Daughters, whoſe Royal Robes of
+Righteouſneſs, Holineſs, and true Charity, did ſhine; not only to the
+gladding the Members of the ſame Body, but to thoſe who, as yet, are
+Strangers to the Com<g ref="char:EOLhyphen"/>monwealth of <hi>Iſrael,</hi> that in the univerſal
+love God has to all, in that he would not the Death of any Sinner, ſo ſhe
+as a Hand-maid of the Lord, manifeſted her love and Law of kindneſs to all,
+<hi>exceeding many others.</hi> The Anointing Oyl ſhe was inwardly beautified
+with, which gave a ſweet ſmelling Savour to the Houſe-hold of Faith, and
+at ſeaſons, heavenly Breathings, prayers and praiſes ſprung in her,
+which was as Incenſe aſcending to the Throne of Glory: And many have been
+comforted in thoſe ſprings of Life, that ſtreamed from that Well of
+Salvation opened in her: So ſhe had received from her Spiritual
+<hi>Joſhua,</hi> not only the South-Land of a good prepared Heart and Ground,
+but obtained the upper and nether Springs of living Water to the making
+fruitful this tender Branch and weak Veſſel.</p>
+            <p>And as ſhe was not laviſh, or ſpending her Portion where
+ſhe ought not, ſhe was not ſparing, neither with<g ref="char:EOLhyphen"/>held the good Things
+which ſhe was made Partaker of from the Remnant that loved the Lord Jeſus,
+with whom her Unity ſtood, and Fellowſhip in the Covenant of Life,
+ſeal<g ref="char:EOLhyphen"/>ed up in that pure Spirit of Adoption, which ſhe had re<g ref="char:EOLhyphen"/>ceived in him,
+and through the Pourings in of his abun<g ref="char:EOLhyphen"/>dant love, who is the <hi>Alpha</hi>
+and <hi>Omega.</hi>
+            </p>
+            <p>She was of a bearing Spirit, and did not love any con<g ref="char:EOLhyphen"/>tention,
+willing rather to ſuffer great Trouble and bear Her Exerciſes patiently,
+than to lay open the weakneſs of others; ſo that Love in the Truth was
+ſetled in her Boſom, rather to cover a multitude of Faults, than to make
+one.</p>
+            <p>And this Labour of true Love, which hates the Garment ſpotted in
+the Fleſh, is the true Work, to help and gather <pb n="3" facs="tcp:99041:3"/>out of the
+World the Snares and Pollutions thereof, Thoſe that are yet uneſcaped.</p>
+            <p>She laboured to reach to the little Seed of the Kingdom where it
+did lye as buried under the Earth, that the Power ſhe had partaken of to work
+her Redemption, they might alſo come to feel, and be made ſenſible of
+what ſhe witneſ<g ref="char:EOLhyphen"/>ſed, of that inward Circumciſion in Spirit from her
+Mi<g ref="char:EOLhyphen"/>nority; ſo that little of the Glory of this World was over<g ref="char:EOLhyphen"/>pleaſant in
+her Eye, but her Eye was opened to behold and look after thoſe things which
+are Celeſtial and Eternal. And the Candle which was lighted in her did
+ſhine forth to others; ſo that it is well for them that are left behind,
+(that obſerved and loved her godly Converſation Coupled with Fear) to
+follow her Example; and now to wait, while a day is given, to keep in the Path
+and Steps of this godly Woman, who was a Pattern of Purity, Patience,
+Sincerity, Poverty of Spirit and true Humility, eſchewing that which comes
+from an evil Root of Bitterneſs and Un<g ref="char:EOLhyphen"/>cleanneſs, (which is too much
+brought forth in ſome of thoſe that profeſs Godlineſs) ſo that a
+Branch of the true Vine, ſhe was manifeſt to be in her day and ſeaſon,
+abiding in him who is the true and antient Vine, receiving Supyly and
+Refreſhment from him who made her bring forth much Fruit, wherein our
+Heavenly Father is glorified, for not by the profeſſion only, But, as our
+Saviour ſaid, <hi>by their Fruits ye ſhall know them.</hi>
+            </p>
+            <p>Her Converſation being in Heaven, the Fruits of the Spirit of
+God were brought forth in her, <hi>(viz.)</hi> Love, Meekneſs Temperance,
+Chaſtity, Brotherly Kindneſs; and above all, ſhe had Charity, which is
+the Bond of Per<g ref="char:EOLhyphen"/>fectneſs.</p>
+            <p>I can now leave her in the Arms of her bleſſed Savi<g ref="char:EOLhyphen"/>our, at
+whoſe Feet ſhe kept in the days of her Pilgri<g ref="char:EOLhyphen"/>mage, and waſhed his Feet
+Spiritually with the Tears of Joy, and wiped them as with the Hairs of her Head
+<pb n="4" facs="tcp:99041:4"/>in pure Obedience, nothing being too dear to paſs thorow or
+to do for him that had done ſo much for her; O <hi>hap<g ref="char:EOLhyphen"/>py art thou Daughter
+of Zion, that is thus taken away from the evil that is to come, and now crowned
+with Immortal Glory, which no Spirit of Darkneſs can bereave thee of.</hi> To
+him be the Glory who hath done this Work for thy poor Soul, whoſe glorious
+Reſurrection in Chriſt will appear in the Kingdom of Heaven, and a remnant
+who Love the Lord (and loved her) are preſſing on to obtain a ſhare in
+the ſame glory and dignity with our Heavenly Father and High-prieſt of our
+Profeſſion, to whom be Praiſes aſ<g ref="char:EOLhyphen"/>cribed for all his mercies
+continually.</p>
+            <p>And now, my dear Friends, you that are left behind, who were
+ſometimes converſant with this dear Servant and Follower of the Lamb, who
+was a ſweet-ſmelling Savour unto you, that have received the Truth in the
+love of it, and in meaſure walk in it, this Council and Admonition I give
+unto you: Keep in the Holy Watch, in the holy ſtay'dneſs of Mind, that you
+may be ready to anſwer the Mind of him, who is the God of <hi>Abraham
+Iſaac</hi> and <hi>Jacob,</hi> that hath called you out of Darkneſs into
+his Marvailous Light, and liberty of his Son Chriſt Jeſus; let no other
+liberty in your Converſation be given way to than what is purchaſed by the
+pretious Blood of the Lamb, by which you are bought, ſo that you may find in
+Spirit continually a Standard lifted up in you, to the reſiſting of all
+Evil: and that you are not your own, but are bought with a Price, a Holy
+Engagement is upon you to ſerve the Lord in your Souls, Bodies, and Spirits,
+which are his: This one thing keeping to, will keep you in a Holy and humble
+frame of Life and Converſation, in the daily Croſs as becomes the Goſpel,
+and in the feeling of the Love of God, ſhed abroad in your Hearts, the Branch
+of Righteouſneſs will ſpring forth in you, and as a well-watered Garden
+and a Spring of Water, whoſe Waters <pb n="5" facs="tcp:99041:4"/>fail not, will your
+Souls be to bring forth Fruits of Love, godly Patience and holy Obedience to
+God, in a dayly ſelf-denial and taking up the Croſs which Crucifies to the
+World the Vanities and Luſts thereof, and ſlays the En<g ref="char:EOLhyphen"/>mity on the Croſs;
+ſo will more and more Branches ap<g ref="char:EOLhyphen"/>pear, which ſpring's from the true Root
+and Ground of Holineſs, where every little one that keeps in the Holy fear,
+may partake of the Sap and Nouriſhment which will make you proſperous, and
+witneſs a daily growth in the heavenly Life.</p>
+            <p>And I exhort you all, to give all diligence <hi>to make your
+cal<g ref="char:EOLhyphen"/>ing and Election ſure,</hi> (that an entrance you may know into the
+Kingdom) and add to <hi>your Faith</hi> (which you have re<g ref="char:EOLhyphen"/>ceived in Chriſt
+Jeſus the Author of it) <hi>Vertue; and to Ver<g ref="char:EOLhyphen"/>tue, Knowledg; and to
+Knowledge, Temperance; and to Tem<g ref="char:EOLhyphen"/>perance, Patience; and to patience,
+Godlineſs; and to Godlineſs, Brotherly kindneſs; and to Brotherly
+kindneſs, Charity;</hi> which is the Mark of Chriſtianity, and the Birth
+which inherits the Kingdom, and thoſe that abide in theſe things, they
+cannot be barren or unfruitful in the Work of the Vine<g ref="char:EOLhyphen"/>yard, God hath called
+them into, but are always ready and prepared with the wiſe Virgins, to enter
+into the Bride<g ref="char:EOLhyphen"/>grooms Chamber, not knowing how ſoon the laſt call may be to
+any of us, that are yet remaining in theſe Ta<g ref="char:EOLhyphen"/>bernacles of Clay; but keep
+ſo Waiting, and in Faithful<g ref="char:EOLhyphen"/>neſs, that the Crown of Glory we may obtain,
+with this pretious, obedient and dear Siſter, that is gone before us.</p>
+            <p>And be not weary in well-doing, and meeting often together; and as
+you keep in a holy Thirſt and hungring after Righteouſneſs, you will
+partake of a daily Watering at that living Stream, and feeding on that living
+Bread, which comes down from Heaven, without which you cannot live and walk up
+to God, nor keep in that which is accep<g ref="char:EOLhyphen"/>table unto him; as this dear Plant of
+our heavenly Fa<g ref="char:EOLhyphen"/>ther kept to the end of her days.</p>
+            <pb n="6" facs="tcp:99041:5"/>
+            <p>So unto the great Shepherd and Biſhop of our Souls, do I commit
+you all, to be led, guided and taught by him, who is the Comforter and Spirit
+of Truth, which leads into all Truth. I communicate this in tender Love to you
+all, tho' but a ſmall number, and one of them being taken from you, who was
+great in Love, but little in her own Eyes. The Lord, with whom all things are
+poſſible, will give an Encreaſe, and enlarge your Borders in the Truth,
+in his own time. So in a Holy ſalutation of Love and Good will to you all, I
+bid you farewell, and reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Your dear Friend and Brother in the Truth,</hi>
+S. WATSON.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="7" facs="tcp:99041:5"/>
+            <head>A ſhort Teſtimony concerning my dear Wife, <hi>Mary
+Watſon,</hi> who departed this life the <hi>2d.</hi> of the <hi>9th</hi>
+Month, <hi>1694.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>THis dear Companion and Fellow-labourer in the Goſ<g ref="char:EOLhyphen"/>pel of life
+and Salvation, who was a dear and tender Wife to me, given by the great God of
+Heaven and Earth to be a Yoke-fellow to me, not only in Body, but in Spirit;
+and though ſhe was attended and afflicted with many Infir<g ref="char:EOLhyphen"/>mities of Body, yet
+great hath been our Travails and Ex<g ref="char:EOLhyphen"/>erciſes in Spirit together, in Prayer and
+Supplication to God, who hath fitted and prepared our Hearts with pray<g ref="char:EOLhyphen"/>ers and
+thanksgiving, to offer up to him as Incenſe upon his Holy Altar; who hath
+helped us through many Tribula<g ref="char:EOLhyphen"/>tions, and ſhed abroad his love in our Hearts,
+and made us livingly to partake together of the Springs of Life and Salvation
+in our Boſoms, and keep us in a true unity of Spi<g ref="char:EOLhyphen"/>rit, as Heirs of the ſame
+Grace, that our Prayers were not hindred; but with <hi>Jacob</hi> in that Seed,
+we came often to know a wreſtling in our inward Man, and a prevailing with
+God for a Bleſſing.</p>
+            <p>And the end of my dear Companions Labour, Travail and pure
+Breathings is accompliſhed, in her final Teſtimony who is viſibly gone,
+and taken from me, to her ſweet Eter<g ref="char:EOLhyphen"/>nal Reſt, where no more Afflictions
+either in Body or Mind can ſurprize her: But as her terreſtrial Body is
+gone to its <pb n="8" facs="tcp:99041:6"/>Center from whence it came, unto which it was to
+return again in the appointed time, ſo her Immortal Soul, in and through
+Obedience to the Seed Chriſt Jeſus in it's re<g ref="char:EOLhyphen"/>deemed State, is gathered
+into a glorious Manſion and ever<g ref="char:EOLhyphen"/>laſting Habitation, where the
+Reſurrection unto Heavenly Happineſs ſtands ſure, on the Foundation and
+Rock of Ages and Generations; She was ſometimes under Fears of this great
+paſſage from Mortality (as ſome have been in antient time) but my Travail
+in Spirit with her Spirit was, That through the living Faith ſhe had received
+in Chriſt the Author of it, ſhe might keep ſtill ſtedfaſt, and fight
+the good Fight of Faith, and Victory ſhould be obtain<g ref="char:EOLhyphen"/>ed, which was in God's
+ſeaſon manifeſted in her inward Man; and afterwards ſhe ſpoke forth
+pure Acknowledg<g ref="char:EOLhyphen"/>ments of the ſame, to our great refreſhing, ſeveral Weeks
+before her departure, giving me comfortably to under<g ref="char:EOLhyphen"/>ſtand, That the Work of
+Redemption was wrought and compleated in her, and all doubts and fears removed.
+And now ſhe waited to be diſſolved, and to be with Chriſt that redeemed
+and ſanctified her, and put on Righteouſ<g ref="char:EOLhyphen"/>neſs as a Garment, and Salvation
+as a Lamp that burneth; ſo that as a wiſe Virgin ſhe was prepared to
+enter into the Bridegroom's Chamber of Eternal Joy, and Praiſes filled her
+Veſſel, while ſhe had any Strength in her Vitals remaining, and her Eye
+was to that heavenly Family out of all the Families of the Earth, where ſhe
+would glad<g ref="char:EOLhyphen"/>ly be rejoycing with her tender Off-ſpring and Relations gone
+before her (as often her Expreſſion were) to be with them.</p>
+            <p>All viſible Helps and outward Enjoyments failing, ſhe had the
+Lord for her Portion, and kept in a Poſſeſſion of that heavenly
+Treaſure layed up, which never fails, and fed upon that living Bread and Wine
+of the Kingdom, which now ſhe is in the more full enjoyment of. She
+<pb n="9" facs="tcp:99041:6"/>ſpoke often of the ſurrounding of the Lambs Glory with
+her, and ſhe was compaſſed about with Salvation and the bleſſed Truth
+as a Girdle, and the Lambs Glory ſprung up to her laſt moment, and ſhe
+was ſenſible, in expreſſion, to the laſt few hours, and ſaid to me
+(as formerly ſhe of<g ref="char:EOLhyphen"/>ten uſed) <hi>Love, pray for me.</hi> And the never
+failing Sacri<g ref="char:EOLhyphen"/>fice which God prepares ſprung up in me, which the Lord, our
+tender heavenly Father, hath heard and anſwer<g ref="char:EOLhyphen"/>ed; and now the time being
+near, and her Glaſs being run, the Silver-thred cut, and the Golden Pitcher
+broken, ſhe then gave up the Ghoſt, in a ſweet ſtill manner, on the
+ſecond day of the 9th Month, 1694. about the 7th Hour at Night, in the
+boſom of her Maid who waited on her, I being on the other ſide the Bed,
+beholding her in the Bowels of Divine Love; ſo he that gave her me, in his
+appointed time took her to himſelf. She lay as a Flour in the Coffin, as if
+ſhe were aſleep; ſhe lived in ſweetneſs and cleanneſs in her life
+time, and was ſweet at her later end; and now I am left in ſeparation from
+her viſible Body, but I am ſtill with her in a ſpiritual Union in the
+heavenly Place, and my labour is to keep in godly Patience and true
+contentedneſs in every exerciſe I am yet to paſs through, for his
+abundant Love and Power hath kept me hitherto, ſurpaſſing what I can
+expreſs; and the Life that I now live is by Faith in the Son of God, in which
+living Faith I wait to perſevere and be preſerved to the end of my
+appointed time, that I may live in obedi<g ref="char:EOLhyphen"/>ence to the Honour and Glory of him
+who is God over all, and hath called and choſen me to bring forth Fruits to
+his Praiſe and Glory, who is worthy for ever, <hi>Amen.</hi>
+            </p>
+            <p>And now, dear Friends, I ſhall further proceed in my mournful
+Relation: On the fourth day of the 9th Month, 1694. being the firſt day of
+the Week, my dear Wife was buried in the Meeting-houſe yard in
+<hi>Lancaſter,</hi> being the firſt Corps there Interred, and was
+accompanied with the <pb n="10" facs="tcp:99041:7"/>Chief of that Town, and the generality
+of Friends, ſeve<g ref="char:EOLhyphen"/>ral hundreds, in company, ſo that in Teſtimonies and on
+other Accounts, things were to the great ſatisfaction of both Friends and
+others. So the Truth is precious in all who wait to be guided by it; and our
+God ſhall have the Praiſe in all his Works for ever and evermore,
+<hi>Amen.</hi>
+            </p>
+            <p>And as to her Offspring left behind, ſhe had a tender regard and
+a holy concern for them, that each particular, through the Grace of God, might
+be gathered home to the true Sheepfold, and Heavenly Shepherd, Chriſt
+Jeſus, and laboured in Spirit with many pure Breathings and Hea<g ref="char:EOLhyphen"/>venly Prayers
+for them, which ſhall not return in vain: And her Exhortation to them that
+were with her, and her Travel in Spirit for thoſe not preſent on her
+Dying-bed was, <hi>That they might walk humbly before the Lord their Creator,
+and watch againſt all the Evil Temptations of this World, the Fleſh, the
+Vanity and Luſts thereof; that no Pride, Vain-Glory or Intemperance, they
+might be Captivated with, but abiding in the holy fear of the Lord, which makes
+the Heart clean, all Evil would be ſuppreſſed, and ſlain upon the
+Croſs in them; and Humility, Righteouſneſs, Meekneſs of Spirit and
+Holineſs, ſhould grow in them, and not only be a comly Garment to them, but
+a never failing portion:</hi> Which ſhe begged of the Lord for them, and
+which was in her Eye, more than all viſible Enjoyments, knowing aſſuredly
+all things will fail, but heavenly Treaſure is that Pearl of great price,
+which will never fail.</p>
+            <p>And ſhe travelled in Spirit, that they might be kept in
+ſubjection and true Obedience to their Father, which (ſhe often ſaid)
+would bring a Bleſſing from on high upon them; for ſhe was right
+ſenſible of his true Care, and the many Tribulations and deep Trials he had
+paſs'd through, and the Lord in the end would give him a Reward, and Crown
+him with Eternal Glory.</p>
+            <pb n="11" facs="tcp:99041:7"/>
+            <p>Thus, in a ſenſible feeling of the Lord's Power and
+Good<g ref="char:EOLhyphen"/>neſs upon my Spirit, I bear record how it was with this my dear and
+tender Companion in her Life and Death, who is now gone before us, and we wait
+to follow after, and to obtain a ſhare in the ſame celeſtial Happineſs
+with her, in the Manſion prepared for all the Faithful.</p>
+            <p>This is for a Memorial of her who lives for ever.</p>
+            <p>So the Lord who reigns over the Families of <hi>Jacob,</hi> and
+works all things together for the good of thoſe that truly Fear, Love, Serve,
+and Obey him; to him be the Glory and Praiſe aſcribed, who is worthy for
+ever, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="testimony">
+            <head>A few Words, by way of Remembrance of my Dear Mother, <hi>Mary
+Watſon.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friends.</salute>
+            </opener>
+            <p>WHereſoever this may come, I finding it as a weight upon my
+Spirit, and a Duty which I ought to per<g ref="char:EOLhyphen"/>form to ſay ſomething by way of
+Remembrance, con<g ref="char:EOLhyphen"/>cerning my dear and wel-beloved Mother, who endured the hard
+pains of Travel for me, and brought me into this World, and Nurſed me at her
+Breaſt: She being brought near the Gates of Death to moſt that beheld her
+at that day, and then did the beloved of her Soul manifeſt himſelf unto
+her, and made her willing to put off, and part with many things which ſhe
+thought ſtood in the way; and often in her Life-time, her Expreſſions
+were to me, how dearly ſhe had bought me, and what need I had to anſwer her
+Love <pb n="12" facs="tcp:99041:8"/>and Care which was over me, with the reſt of the
+Fruit of her Body **only**: And I, being all that am left, the firſt of her
+Labours, many times I have been concerned by reaſon I was not preſent with
+her, when ſhe was upon her Dying-Bed: But her Care and Love was over me, as I
+per<g ref="char:EOLhyphen"/>ceive ſhe did expreſs.</p>
+            <p>And this I can ſay, She was never wanting in reproving of Sin in
+the leaſt appearance in any of us; her Soul loath<g ref="char:EOLhyphen"/>ing and abhorring all
+manner of Evil wherever it was, ei<g ref="char:EOLhyphen"/>ther in Servants or Children; and many of
+her Servants bleſs the Everlaſting God, that ever they came under her Roof
+on her behalf, being as a tender Nurſing-Mother, one whom the Lord had indued
+with Power from on high, Nouriſhing, Comforting, Strengthening, exhorting and
+building up in the moſt Holy Faith, training up her Chil<g ref="char:EOLhyphen"/>dren in the way they
+ſhould walk, and I hope moſt of them will not depart from Chriſt.</p>
+            <p>And for my own part, I have been, as it were raiſed from the
+very brink of the Grave, and I am as one of the Monuments of the Lord's Mercy,
+deſiring that Day may ne<g ref="char:EOLhyphen"/>ver be forgot by me. And when I was in my greateſt
+Ca<g ref="char:EOLhyphen"/>lamity, the Thoughts of her from whence I came, was as Marrow to my Bones,
+bleſſing the Lord on her behalf, That he was pleas'd to ſuffer me to
+ſpring from ſuch a Root, which brought Honour to his great Name, and the
+deſire of my Heart and Soul is, That we that are her Branches, who are yet
+left behind, may receive of the ſame Sap and Virtue from Chriſt the Root,
+which will be in us as a Well of Wa<g ref="char:EOLhyphen"/>ter ſpringing up unto Eternal Life. And
+it is the Travel of my Spirit in the love of my Heavenly Father, that all
+Parents would carefully admoniſh, inſtruct and reprove their Children, as
+ſhe did, which would obtain a Bleſſing from the Lord God upon the
+Obedient, and it will ſtand as a Witneſs againſt the Diſobedient and
+Rebellious, leaving them without excuſe, and add to their Peace and
+Satisfaction <pb n="13" facs="tcp:99041:8"/>in their own Boſoms, who have ſo
+diſcharged their Duty to their Children.</p>
+            <p>My dear Mother, tho' but weak of Body, yet formerly was much given
+to faſting on Religious Accounts, and ſpend<g ref="char:EOLhyphen"/>ing much of her time in private
+Retirements, fervent Pray<g ref="char:EOLhyphen"/>ers, and praiſing the Lord, delighting much in
+Meditations, and like <hi>Mary,</hi> that Chriſt ſaid, <hi>had choſen
+that better part,</hi> which can never be taken from her; and whilſt ſhe
+had Strength of Body to keep the Meetings, had a word in ſea<g ref="char:EOLhyphen"/>ſon ſuitable
+to the States and Conditions of many, and a good Inſtrument in the Lord's
+Hand to the keeping things ſweet, and in good order, relating to
+Church-Affairs; Fa<g ref="char:EOLhyphen"/>ther <hi>Watſon</hi> being a ſuitable Help-meet to her
+in ſpiritual Affairs, and tender over her weak Body, and my Soul loves him in
+the Heavenly Life which will over-ballance all Earthly Treaſure.</p>
+            <p>I might ſay much of this my dear and tender Mother, how ſhe
+ſpent her time in days that are paſt, and years that are gone, in
+Supplication, Faſting, Prayer and Alms, not willing to eat her Morſel
+alone, but diſtributing freely to thoſe that wanted, and ſtill with that
+privacy, that, as it's ſaid, <hi>(The Left Hand ſhould not know what the
+Right Hand did,)</hi> giving little Sleep to her Eyes, or Slumber to her
+Eye<g ref="char:EOLhyphen"/>lids until ſhe had found a place for the God of <hi>Jacob</hi> to dwell
+in, and when ſhe had found him whom her Soul loved, ſhe kept upon her
+Watch-Tower, being ready to enter the Bride-Grooms Chamber at what hour he
+pleas'd to call.</p>
+            <p>O the remembrance of this my dear and tender Mother, bows my Heart
+in Humility, and tenders my Soul, cauſing me to ſay, O!<hi>thou God of the
+Righteous grant, that we that are her Offspring, with all thy Flock, may ſo
+walk, as that we may receive a part in that everlaſting Reward which ſhe
+hath obtained.</hi>
+            </p>
+            <pb n="14" facs="tcp:99041:9"/>
+            <p>Oh! the loſs of ſo dear and tender a Mother, (which I have
+with my dear Siſters, who beheld her upon her dying Bed,) is more than I can
+ſufficiently expreſs; and though we Mourn, yet not as without hope, but
+ſtill my Breath<g ref="char:EOLhyphen"/>ings are, that I with them, and they with me, may be kept
+faithful to the end of our days, that ſo we may re<g ref="char:EOLhyphen"/>ceive our Penny, and our
+God ſhall have the Praiſe over all, for he is truly worthy, ſaith my
+Soul, henceforth and for evermore, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Elizabeth Moſs.</signed>
+            </closer>
+            <pb facs="tcp:99041:9"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
